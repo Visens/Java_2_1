@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        int cost_ticket = 24567;
-        int bonus_miles = cost_ticket / 200;
-        System.out.println("Ваши бонусные баллы: " + bonus_miles);
+        int costTicket = 24567;
+        int bonusMiles = costTicket / 200;
+        System.out.println("Ваши бонусные баллы: " + bonusMiles);
         // Объявляете переменные для входных данных и
         // параметров программы: одну для хранения
         // стоимости билета, другую для хранения количества
